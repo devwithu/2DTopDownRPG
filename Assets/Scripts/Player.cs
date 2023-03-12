@@ -29,7 +29,7 @@ public class Player : MonoBehaviour
 
         hit = Physics2D.BoxCast(transform.position, boxCollider.size, 0
             , new Vector2(0, moveDelta.y)
-            , Mathf.Abs(moveDelta.y * Time.deltaTime)
+            , Mathf.Abs(moveDelta.y * Time.deltaTime * 0.1f)
             , LayerMask.GetMask("Actor", "Blocking"));
         if (hit.collider == null)
         {
@@ -38,7 +38,7 @@ public class Player : MonoBehaviour
         
         hit = Physics2D.BoxCast(transform.position, boxCollider.size, 0
             , new Vector2(moveDelta.x, 0)
-            , Mathf.Abs(moveDelta.y * Time.deltaTime)
+            , Mathf.Abs(moveDelta.y * Time.deltaTime  * 0.1f)
             , LayerMask.GetMask("Actor", "Blocking"));
         if (hit.collider == null)
         {
