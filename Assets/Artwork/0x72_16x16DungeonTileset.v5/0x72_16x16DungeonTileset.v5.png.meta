@@ -5937,7 +5937,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_16x16DungeonTileset.v5_271
+      name: chest_1
       rect:
         serializedVersion: 2
         x: 224
@@ -6252,7 +6252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_16x16DungeonTileset.v5_286
+      name: chest_0
       rect:
         serializedVersion: 2
         x: 224
@@ -6890,7 +6890,6 @@ TextureImporter:
       0x72_16x16DungeonTileset.v5_303: 2056632315
       0x72_16x16DungeonTileset.v5_99: 211630965
       0x72_16x16DungeonTileset.v5_110: -1895918159
-      0x72_16x16DungeonTileset.v5_286: 662148491
       0x72_16x16DungeonTileset.v5_147: 1489821620
       0x72_16x16DungeonTileset.v5_37: 497859966
       0x72_16x16DungeonTileset.v5_100: 1060149751
@@ -6936,7 +6935,6 @@ TextureImporter:
       0x72_16x16DungeonTileset.v5_89: 254959760
       0x72_16x16DungeonTileset.v5_208: 783124508
       0x72_16x16DungeonTileset.v5_158: -779568949
-      0x72_16x16DungeonTileset.v5_271: -824256532
       0x72_16x16DungeonTileset.v5_54: 1668734390
       0x72_16x16DungeonTileset.v5_276: 1118377661
       0x72_16x16DungeonTileset.v5_223: -1987443633
@@ -6945,6 +6943,7 @@ TextureImporter:
       0x72_16x16DungeonTileset.v5_9: -1436968494
       0x72_16x16DungeonTileset.v5_174: -1097992466
       0x72_16x16DungeonTileset.v5_117: -1311989827
+      chest_0: 662148491
       stairs_0: 1166907710
       0x72_16x16DungeonTileset.v5_77: -1938008108
       0x72_16x16DungeonTileset.v5_210: -344546047
@@ -6964,6 +6963,7 @@ TextureImporter:
       0x72_16x16DungeonTileset.v5_115: 1709907121
       0x72_16x16DungeonTileset.v5_91: -2009453114
       0x72_16x16DungeonTileset.v5_131: 1473962917
+      chest_1: -824256532
       0x72_16x16DungeonTileset.v5_280: 1840041148
       0x72_16x16DungeonTileset.v5_59: 1079084827
       0x72_16x16DungeonTileset.v5_127: -210203801

@@ -15,7 +15,7 @@ TagManager:
   - Actor
   - Player
   - Floor
-  - 
+  - Interactable
   - 
   - 
   - 
@@ -49,4 +49,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1944625393
+    locked: 0
+  - name: Interactable
+    uniqueID: 3422659677
     locked: 0
