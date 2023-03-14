@@ -5,7 +5,7 @@ using UnityEngine.Serialization;
 
 public class Chest : Collectable
 {
-    [FormerlySerializedAs("emptychest")] public Sprite emptyChest;
+    public Sprite emptyChest;
     public int pesosAmount = 5;
     
     protected override void OnCollide(Collider2D col)
@@ -15,7 +15,8 @@ public class Chest : Collectable
             collected = true;
             GetComponent<SpriteRenderer>()
                 .sprite = emptyChest;
-            
+            GameManager.instance.ShowText("+" + pesosAmount + "pesos!"
+            ,25, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
         }
     }
 }
