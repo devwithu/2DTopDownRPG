@@ -14,7 +14,7 @@ public class Collidable : MonoBehaviour
         boxCollider = GetComponent<BoxCollider2D>();
     }
 
-    protected void Update()
+    protected virtual void Update()
     {
         boxCollider.OverlapCollider(filter, hits);
         for (int i = 0; i < hits.Length; i++)
@@ -32,6 +32,6 @@ public class Collidable : MonoBehaviour
 
     protected virtual void OnCollide(Collider2D col)
     {
-        Debug.Log(col.name);
+        Debug.Log("OnCollide was not implemented in " +  col.name);
     }
 }
