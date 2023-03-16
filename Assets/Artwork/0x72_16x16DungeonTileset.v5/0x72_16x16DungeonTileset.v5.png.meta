@@ -5601,7 +5601,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_16x16DungeonTileset.v5_255
+      name: menu_0
       rect:
         serializedVersion: 2
         x: 224
@@ -6789,9 +6789,9 @@ TextureImporter:
     nameFileIdTable:
       0x72_16x16DungeonTileset.v5_90: -1104200850
       0x72_16x16DungeonTileset.v5_284: 416948763
+      0x72_16x16DungeonTileset.v5_140: 281705068
       0x72_16x16DungeonTileset.v5_47: 1209649246
       0x72_16x16DungeonTileset.v5_192: -1833087966
-      0x72_16x16DungeonTileset.v5_295: 1688886693
       0x72_16x16DungeonTileset.v5_169: 840175006
       weapon_2: -32451376
       0x72_16x16DungeonTileset.v5_111: -1590381686
@@ -6825,9 +6825,9 @@ TextureImporter:
       0x72_16x16DungeonTileset.v5_28: 946676410
       0x72_16x16DungeonTileset.v5_298: 992649585
       0x72_16x16DungeonTileset.v5_248: 1857918842
-      0x72_16x16DungeonTileset.v5_203: 1284565540
       0x72_16x16DungeonTileset.v5_144: -1235413464
       0x72_16x16DungeonTileset.v5_126: 529590534
+      0x72_16x16DungeonTileset.v5_203: 1284565540
       0x72_16x16DungeonTileset.v5_243: -795834211
       0x72_16x16DungeonTileset.v5_182: 1285479335
       0x72_16x16DungeonTileset.v5_218: -1851999978
@@ -6909,6 +6909,7 @@ TextureImporter:
       torch_4: 1778335408
       0x72_16x16DungeonTileset.v5_12: 1417867413
       0x72_16x16DungeonTileset.v5_282: -588738196
+      menu_0: 885785597
       0x72_16x16DungeonTileset.v5_83: -432562390
       0x72_16x16DungeonTileset.v5_168: -1738377816
       0x72_16x16DungeonTileset.v5_281: 1652667287
@@ -7053,7 +7054,6 @@ TextureImporter:
       0x72_16x16DungeonTileset.v5_55: 1367923916
       0x72_16x16DungeonTileset.v5_195: 1359193550
       0x72_16x16DungeonTileset.v5_58: 1399383070
-      0x72_16x16DungeonTileset.v5_255: 885785597
       torch_3: 2125860981
       0x72_16x16DungeonTileset.v5_25: -1061801834
       0x72_16x16DungeonTileset.v5_51: -1272735597
@@ -7094,15 +7094,15 @@ TextureImporter:
       0x72_16x16DungeonTileset.v5_178: 166828305
       0x72_16x16DungeonTileset.v5_171: 615697040
       0x72_16x16DungeonTileset.v5_63: -712228534
-      0x72_16x16DungeonTileset.v5_38: -553160163
+      0x72_16x16DungeonTileset.v5_295: 1688886693
       weapon_6: -159224677
-      0x72_16x16DungeonTileset.v5_262: -918157059
-      0x72_16x16DungeonTileset.v5_300: -1168776828
+      0x72_16x16DungeonTileset.v5_38: -553160163
       0x72_16x16DungeonTileset.v5_23: 996979124
-      0x72_16x16DungeonTileset.v5_4: 1280200560
       0x72_16x16DungeonTileset.v5_79: 1097925330
+      0x72_16x16DungeonTileset.v5_4: 1280200560
+      0x72_16x16DungeonTileset.v5_300: -1168776828
+      0x72_16x16DungeonTileset.v5_262: -918157059
       0x72_16x16DungeonTileset.v5_138: 651219253
-      0x72_16x16DungeonTileset.v5_140: 281705068
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
